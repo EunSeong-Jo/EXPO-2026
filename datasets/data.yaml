@@ -1,4 +1,4 @@
-path: /home/asus/expo/datasets
+path: /home/ubuntu/expo/datasets
 train: train/images
 val:   val/images
 test:  test/images
