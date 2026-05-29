@@ -1,17 +1,1 @@
 *Zone.Identifier
-
-# 환경 변수 / 시크릿
-.env
-.env.*
-*.env
-
-# Python
-__pycache__/
-*.pyc
-*.pyo
-.venv/
-venv/
-
-# IDE
-.vscode/
-.idea/
