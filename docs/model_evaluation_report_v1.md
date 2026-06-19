@@ -31,6 +31,16 @@
 - 라벨 형식: YOLO (정규화 cx cy w h), class 0 = white_cane
 - 배경 이미지(Background): val 0장, test 2장
 
+**데이터셋 출처**
+
+| 항목 | 내용 |
+|---|---|
+| 데이터셋 명 | White cane Computer Vision Model |
+| 제작자 | noDongjaeTeam |
+| 출처 | [https://universe.roboflow.com/nodongjaeteam-g1pbo/white-cane-hyjat](https://universe.roboflow.com/nodongjaeteam-g1pbo/white-cane-hyjat) |
+| 라이선스 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| 사용 방식 | 원본 데이터셋 수정 없이 학습·평가 용도로 사용 |
+
 ---
 
 ## 3. 학습 설정
